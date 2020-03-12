@@ -1,0 +1,23 @@
+{
+  "name": "push-notification-nodeJs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/obliquee/push-notification-nodeJs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/obliquee/push-notification-nodeJs/issues"
+  },
+  "homepage": "https://github.com/obliquee/push-notification-nodeJs#readme",
+  "dependencies": {
+    "web-push": "^3.4.3"
+  }
+}

@@ -1,0 +1,6 @@
+--For Installation--
+Step 1: In node js folder from the terminal Type Command:
+npm  init -y
+
+Step 2: In node js folder from the terminal Type Command:
+npm i web-push
